@@ -1,0 +1,11 @@
+﻿Book_id,Bname,Author,Cost,dt_entry,Copies
+1001,Informatics Practices 12,Sumita arora,560,17/09/2021,120
+1002,Physics for 12,Pradeep,890,16/09/2021,119
+1003,Chemistry for 12,S L arora,750,15/09/2021,96
+1004,Biology for 12,K N Bhatia,900,17/09/2022,73
+1005,Core python,M Nageshwar Rao,650,16/09/2022,120
+1006,NEET champions,MTG,400,15/09/2022,50
+1007,Physics class 12,Reeta Sahoo,465,17/09/2023,10
+1008,Concepts of physics,HC Verma,890,16/09/2023,50
+1009,Objective mathematics ,RD Sharma,1450,15/09/2023,10
+1010,Electrical Technology ,C R Dargan,325,17/09/2024,40
